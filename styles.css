@@ -1,0 +1,96 @@
+h2{
+    background-color: blue;
+    color: rgb(153, 255, 230);
+    font-size: 95px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 30px;
+    padding: 50px;
+    margin-top: 0px;
+    border: solid rgb(41, 210, 233);
+    border-width: 13px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: lightskyblue;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://pbs.twimg.com/media/DdT0e0lX0AIoTAb.jpg);
+    background-size: cover;
+}
+
+img{
+    position: absolute; right: 3px;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: color: rgb(11, 166, 194);
+    background-color: darkblue;rgb(102, 215, 235)
+    display:inline
+    
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.länkett{
+    background-color: rgb(9, 7, 102);
+    color: rgb(77, 191, 236);
+    text-align: center;
+    text-decoration: none;
+    font-size: 143px;
+    border: rgb(189, 253, 255);
+    border-style: solid;
+    border-width: 22px;
+}
+
+a{
+    background-color: rgb(17, 52, 117);
+    color: rgb(100, 232, 255);
+    text-align: center;
+    text-decoration: none;  
+}
+
+.länkett:hover{
+    color: rgb(88, 255, 219);
+    font-size: 175px;
+    transition: 1s;
+    background-color: rgb(34, 85, 194);
+    border-color: black;
+}
+
+.första{
+    text-align: center;
+}
+
+.gåmed{
+    background-color: rgb(9, 7, 102); 
+    color: rgb(77, 191, 236);
+    text-align: center;
+    font-size: 40px;
+    display: inline;
+}
+
+.tillbaka{
+    border: solid darkcyan;
+    border-width: 5px;
+    color: white;
+    background-color: rgb(21, 30, 126);
+}
+
+.tillbaka:hover{
+    font-size: 20px;
+    transition: 1s;
+    border-color: cornflowerblue;
+    background-color: white;
+    color: blueviolet;
+}
